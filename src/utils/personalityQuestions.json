@@ -1,0 +1,48 @@
+
+[
+  {
+    "text": "I enjoy large social gatherings and parties.",
+    "options": [
+      "Strongly Agree",
+      "Agree",
+      "Disagree",
+      "Strongly Disagree"
+    ]
+  },
+  {
+    "text": "I feel recharged after spending time alone.",
+    "options": [
+      "Strongly Agree",
+      "Agree",
+      "Disagree",
+      "Strongly Disagree"
+    ]
+  },
+  {
+    "text": "I prefer working on projects as part of a team.",
+    "options": [
+      "Strongly Agree",
+      "Agree",
+      "Disagree",
+      "Strongly Disagree"
+    ]
+  },
+  {
+    "text": "I find it easy to strike up conversations with strangers.",
+    "options": [
+      "Strongly Agree",
+      "Agree",
+      "Disagree",
+      "Strongly Disagree"
+    ]
+  },
+  {
+    "text": "I enjoy public speaking and giving presentations.",
+    "options": [
+      "Strongly Agree",
+      "Agree",
+      "Disagree",
+      "Strongly Disagree"
+    ]
+  }
+]
